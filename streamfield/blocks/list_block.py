@@ -239,7 +239,6 @@ class ListBlock(Block):
     # self.child_block.pre_save_hook(field_value, child_val)
 
     def render_basic(self, value, context=None):
-        print("ListBlock render")
         children = format_html_join(
             "\n",
             self.element_template,
