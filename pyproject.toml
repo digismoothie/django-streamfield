@@ -4,11 +4,10 @@ build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
 module = "streamfield"
-# version = 0.0.1
-dist-name = "django-streamfield"
+dist-name = "ds-django-streamfield"
 author = "Digismoothie"
 author-email = ""
-home-page = "https://github.com/rcrowther/django-streamfield-w"
+home-page = "https://github.com/digismoothie/django-streamfield"
 description-file = "README.md"
 classifiers=[
     "Operating System :: OS Independent",

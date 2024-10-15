@@ -5,7 +5,7 @@
 
 A Streamfield for Django. Saves data as JSON to the referenced field. The admin display is designed to operate unobtrusively and be styled as the stock Django Admin.
 
-The distribution is called 'django-streamfield-w', but internally the module is called 'streamfield'.
+The distribution is called 'ds-django-streamfield', but internally the module is called 'streamfield'.
 
 ## Pros
 - It's a StreamField
