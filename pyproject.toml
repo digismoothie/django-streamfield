@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ds-django-streamfield"
 version = "0.1.1"
-description = ""
+description = "A extendable model field stored as JSON and built from blocks"
 authors = [
     "Digismoothie s.r.o. <info@digismoothie.com>",
 ]
