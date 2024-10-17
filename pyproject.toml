@@ -10,6 +10,7 @@ readme = "README.md"
 repository = "https://github.com/digismoothie/django-streamfield"
 include = [
 ]
+packages = [{include = "streamfield"}]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
