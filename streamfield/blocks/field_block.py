@@ -4,7 +4,6 @@ import datetime
 from django import forms
 from django.contrib import admin
 from django.db.models.fields import BLANK_CHOICE_DASH
-from django.forms.fields import CallableChoiceIterator
 from django.forms.widgets import FileInput, Media
 from django.template.loader import render_to_string
 from django.utils.dateparse import parse_date, parse_datetime, parse_time
